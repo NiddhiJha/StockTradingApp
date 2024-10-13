@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Stock Trading</string>
+    <string-array name="cities">
+        <item> Select city</item>
+        <item> Kolkata </item>
+        <item> Patna </item>
+        <item> Delhi </item>
+        <item> Siwan </item>
+        <item> Chennai </item>
+    </string-array>
+    <string name="my_form_heading">My First Form</string>
+    <string name="Name_place">Enter Name</string>
+    <string name="password_place">Enter Password</string>
+    <string name="phn_place">Enter Phone no.</string>
+    <string name="select_gen">Select Gender</string>
+    <string name="Male_gen">Male</string>
+    <string name="Female_gen">Female</string>
+    <string name="select_domain">Select your interested domain</string>
+    <string name="domain_android">Android Development</string>
+    <string name="domain_website">Website Development</string>
+    <string name="domain_java">Java Development</string>
+    <string name="click_txt">Click Me</string>
+</resources>
